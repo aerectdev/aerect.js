@@ -17,7 +17,7 @@ const digits = 5 // Number of digits
 console.log(aerect.generateNumber(digits)); // 54759
 ```
 - Generate random ID. Parameters: `length`: Length of the ID (required)
-- ```js
+```js
 const length = 10 // Length of the ID
 console.log(aerect.generateID(length)); // MqXXuvhPAl
 ```
