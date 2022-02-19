@@ -1,7 +1,7 @@
 # aerect.js
 A light-weight wrapper to make your coding easier with simple functions
 
-# Examples Using NodeJS
+# Examples
 - Import the Package
 ```js
 const aerect = require('aerect.js');
