@@ -11,5 +11,8 @@ const aerect = require('aerect.js');
 const array = ['a', 'b', 'c', 'd', 'e']
 console.log(aerect.randomize(array)); // a
 ```
-
-
+- Generate random numbers. Parameters: `digits`: Number of digits
+```js
+const digits = 5 // Number of digits
+console.log(aerect.generateNumber(digits)); // 54759
+```
